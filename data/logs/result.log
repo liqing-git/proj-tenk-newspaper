@@ -1,0 +1,426 @@
+2015-07-01 16:34:44,645 INFO crawl google finance start......
+2015-07-01 16:34:44,650 INFO number of companys is 4
+2015-07-01 16:34:44,651 DEBUG crawl https://www.google.com/finance, start............ 
+2015-07-01 16:34:44,651 INFO crawl https://www.google.com/finance, 1 time
+2015-07-01 16:35:04,962 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:35:04,963 INFO crawl https://www.google.com/finance, 2 time
+2015-07-01 16:35:26,982 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:35:26,983 INFO crawl https://www.google.com/finance, 3 time
+2015-07-01 16:35:51,000 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:35:51,001 INFO crawl https://www.google.com/finance, 4 time
+2015-07-01 16:36:17,022 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:36:17,023 ERROR crawl https://www.google.com/finance, 4 time,fail
+2015-07-01 16:36:17,026 DEBUG crawl finance_home, end.............. 
+2015-07-01 16:36:17,027 DEBUG crawl https://news.google.com/news/section?ned=us&topic=b, start............ 
+2015-07-01 16:36:17,028 INFO crawl https://news.google.com/news/section?ned=us&topic=b, 1 time
+2015-07-01 16:36:37,300 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:36:37,300 INFO crawl https://news.google.com/news/section?ned=us&topic=b, 2 time
+2015-07-01 16:36:59,314 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:36:59,315 INFO crawl https://news.google.com/news/section?ned=us&topic=b, 3 time
+2015-07-01 16:37:23,328 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:37:23,330 INFO crawl https://news.google.com/news/section?ned=us&topic=b, 4 time
+2015-07-01 16:37:49,338 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:37:49,339 ERROR crawl https://news.google.com/news/section?ned=us&topic=b, 4 time,fail
+2015-07-01 16:37:49,341 DEBUG crawl finance_home, end.............. 
+2015-07-01 16:37:49,342 DEBUG crawl https://www.google.com/finance/company_news?q=BIDU, start............ 
+2015-07-01 16:37:49,343 INFO crawl https://www.google.com/finance/company_news?q=BIDU, 1 time
+2015-07-01 16:38:09,353 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:38:09,354 INFO crawl https://www.google.com/finance/company_news?q=BIDU, 2 time
+2015-07-01 16:38:31,370 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:38:31,371 INFO crawl https://www.google.com/finance/company_news?q=BIDU, 3 time
+2015-07-01 16:38:55,381 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:38:55,382 INFO crawl https://www.google.com/finance/company_news?q=BIDU, 4 time
+2015-07-01 16:39:21,397 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:39:21,398 ERROR crawl https://www.google.com/finance/company_news?q=BIDU, 4 time,fail
+2015-07-01 16:39:21,399 DEBUG crawl BIDU, end.............. 
+2015-07-01 16:39:21,400 DEBUG crawl https://www.google.com/finance/company_news?q=RLOG, start............ 
+2015-07-01 16:39:21,401 INFO crawl https://www.google.com/finance/company_news?q=RLOG, 1 time
+2015-07-01 16:39:41,412 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:39:41,413 INFO crawl https://www.google.com/finance/company_news?q=RLOG, 2 time
+2015-07-01 16:40:03,429 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:40:03,430 INFO crawl https://www.google.com/finance/company_news?q=RLOG, 3 time
+2015-07-01 16:40:27,447 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:40:27,448 INFO crawl https://www.google.com/finance/company_news?q=RLOG, 4 time
+2015-07-01 16:40:53,465 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 16:40:53,466 ERROR crawl https://www.google.com/finance/company_news?q=RLOG, 4 time,fail
+2015-07-01 16:40:53,468 DEBUG crawl RLOG, end.............. 
+2015-07-01 16:40:53,468 INFO number of news url is 0
+2015-07-01 16:40:53,469 INFO crawl google finance end......
+2015-07-01 20:32:51,238 INFO crawl google finance start......
+2015-07-01 20:32:51,248 INFO number of companys is 4
+2015-07-01 20:32:51,249 DEBUG crawl https://www.google.com/finance, start............ 
+2015-07-01 20:32:51,251 INFO crawl https://www.google.com/finance, 1 time
+2015-07-01 20:33:11,281 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:33:11,283 INFO crawl https://www.google.com/finance, 2 time
+2015-07-01 20:33:33,295 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:33:33,296 INFO crawl https://www.google.com/finance, 3 time
+2015-07-01 20:33:57,309 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:33:57,310 INFO crawl https://www.google.com/finance, 4 time
+2015-07-01 20:34:23,326 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:34:23,327 ERROR crawl https://www.google.com/finance, 4 time,fail
+2015-07-01 20:34:23,330 DEBUG crawl finance_home, end.............. 
+2015-07-01 20:34:23,331 DEBUG crawl https://news.google.com/news/section?ned=us&topic=b, start............ 
+2015-07-01 20:34:23,331 INFO crawl https://news.google.com/news/section?ned=us&topic=b, 1 time
+2015-07-01 20:34:43,595 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:34:43,596 INFO crawl https://news.google.com/news/section?ned=us&topic=b, 2 time
+2015-07-01 20:35:05,609 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:35:05,610 INFO crawl https://news.google.com/news/section?ned=us&topic=b, 3 time
+2015-07-01 20:35:29,622 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:35:29,623 INFO crawl https://news.google.com/news/section?ned=us&topic=b, 4 time
+2015-07-01 20:35:55,639 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:35:55,640 ERROR crawl https://news.google.com/news/section?ned=us&topic=b, 4 time,fail
+2015-07-01 20:35:55,641 DEBUG crawl finance_home, end.............. 
+2015-07-01 20:35:55,642 DEBUG crawl https://www.google.com/finance/company_news?q=BIDU, start............ 
+2015-07-01 20:35:55,642 INFO crawl https://www.google.com/finance/company_news?q=BIDU, 1 time
+2015-07-01 20:36:15,655 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:36:15,656 INFO crawl https://www.google.com/finance/company_news?q=BIDU, 2 time
+2015-07-01 20:36:37,669 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:36:37,671 INFO crawl https://www.google.com/finance/company_news?q=BIDU, 3 time
+2015-07-01 20:37:01,688 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:37:01,689 INFO crawl https://www.google.com/finance/company_news?q=BIDU, 4 time
+2015-07-01 20:37:27,704 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:37:27,705 ERROR crawl https://www.google.com/finance/company_news?q=BIDU, 4 time,fail
+2015-07-01 20:37:27,707 DEBUG crawl BIDU, end.............. 
+2015-07-01 20:37:27,708 DEBUG crawl https://www.google.com/finance/company_news?q=RLOG, start............ 
+2015-07-01 20:37:27,708 INFO crawl https://www.google.com/finance/company_news?q=RLOG, 1 time
+2015-07-01 20:37:47,923 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:37:47,924 INFO crawl https://www.google.com/finance/company_news?q=RLOG, 2 time
+2015-07-01 20:38:09,936 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:38:09,937 INFO crawl https://www.google.com/finance/company_news?q=RLOG, 3 time
+2015-07-01 20:38:33,952 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:38:33,953 INFO crawl https://www.google.com/finance/company_news?q=RLOG, 4 time
+2015-07-01 20:38:59,967 ERROR URLError, code is :[Errno 65] No route to host
+2015-07-01 20:38:59,968 ERROR crawl https://www.google.com/finance/company_news?q=RLOG, 4 time,fail
+2015-07-01 20:38:59,970 DEBUG crawl RLOG, end.............. 
+2015-07-01 20:38:59,971 INFO number of news url is 0
+2015-07-01 20:38:59,972 INFO crawl google finance end......
+2015-07-02 15:12:32,335 INFO crawl yahoo finance start......
+2015-07-02 15:12:32,360 INFO number of companys is 3
+2015-07-02 15:12:32,360 DEBUG crawl http://finance.yahoo.com/, start............ 
+2015-07-02 15:12:32,361 INFO crawl http://finance.yahoo.com/, 1 time
+2015-07-02 15:12:35,579 INFO crawl http://finance.yahoo.com/, success 
+2015-07-02 15:12:36,261 INFO Starting new HTTPS connection (1): www.facebook.com
+2015-07-02 15:13:06,300 DEBUG HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /yahoofinance (Caused by <class 'socket.gaierror'>: [Errno 8] nodename nor servname provided, or not known) on https://www.facebook.com/yahoofinance
+2015-07-02 15:13:06,309 INFO Starting new HTTPS connection (1): www.facebook.com
+2015-07-02 15:13:06,311 DEBUG HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /yahoofinance (Caused by <class 'socket.gaierror'>: [Errno 8] nodename nor servname provided, or not known) on https://www.facebook.com/yahoofinance
+2015-07-02 15:13:06,319 INFO Starting new HTTPS connection (1): twitter.com
+2015-07-02 15:13:13,499 DEBUG (<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x110cc0c50>, 'Connection to twitter.com timed out. (connect timeout=7)') on https://twitter.com/YahooFinance
+2015-07-02 15:13:13,509 INFO Starting new HTTPS connection (1): twitter.com
+2015-07-02 15:13:20,515 DEBUG (<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x110cc0b90>, 'Connection to twitter.com timed out. (connect timeout=7)') on https://twitter.com/YahooFinance
+2015-07-02 15:13:20,526 INFO Starting new HTTP connection (1): help.yahoo.com
+2015-07-02 15:13:21,237 DEBUG "GET /l/us/yahoo/finance/quotes/quotelookup.html HTTP/1.1" 302 361
+2015-07-02 15:13:21,247 INFO Starting new HTTPS connection (1): help.yahoo.com
+2015-07-02 15:13:22,288 DEBUG "GET /kb/index?locale=en_US&page=product&y=PROD_FIN&actp=lorax HTTP/1.1" 302 1499
+2015-07-02 15:13:23,430 DEBUG "GET /mkb/product.php?locale=en_US&page=product&y=PROD_FIN&actp=lorax HTTP/1.1" 200 8248
+2015-07-02 15:13:24,740 DEBUG Invalid URL u'/news/greeces-tsipras-digs-against-bailout-052622818.html': No schema supplied. Perhaps you meant http:///news/greeces-tsipras-digs-against-bailout-052622818.html? on /news/greeces-tsipras-digs-against-bailout-052622818.html
+2015-07-02 15:13:24,745 DEBUG Invalid URL u'/news/greeces-tsipras-digs-against-bailout-052622818.html': No schema supplied. Perhaps you meant http:///news/greeces-tsipras-digs-against-bailout-052622818.html? on /news/greeces-tsipras-digs-against-bailout-052622818.html
+2015-07-02 15:13:24,750 DEBUG Invalid URL u'/news/asia-shares-subdued-greek-anxiety-004926180.html': No schema supplied. Perhaps you meant http:///news/asia-shares-subdued-greek-anxiety-004926180.html? on /news/asia-shares-subdued-greek-anxiety-004926180.html
+2015-07-02 15:13:24,754 DEBUG Invalid URL u'/news/u-probing-whether-airlines-collude-184806035.html': No schema supplied. Perhaps you meant http:///news/u-probing-whether-airlines-collude-184806035.html? on /news/u-probing-whether-airlines-collude-184806035.html
+2015-07-02 15:13:24,759 DEBUG Invalid URL u'/news/china-stocks-retreat-despite-moves-024832951.html': No schema supplied. Perhaps you meant http:///news/china-stocks-retreat-despite-moves-024832951.html? on /news/china-stocks-retreat-despite-moves-024832951.html
+2015-07-02 15:13:24,763 DEBUG Invalid URL u'/news/imfs-lagarde-says-greece-must-205133183.html': No schema supplied. Perhaps you meant http:///news/imfs-lagarde-says-greece-must-205133183.html? on /news/imfs-lagarde-says-greece-must-205133183.html
+2015-07-02 15:13:24,767 DEBUG Invalid URL u'/news/apple-s-latest-ebooks-loss-won-t-appeal-to-supreme-court-majority-161724429.html': No schema supplied. Perhaps you meant http:///news/apple-s-latest-ebooks-loss-won-t-appeal-to-supreme-court-majority-161724429.html? on /news/apple-s-latest-ebooks-loss-won-t-appeal-to-supreme-court-majority-161724429.html
+2015-07-02 15:13:24,772 DEBUG Invalid URL u'/news/apple-s-latest-ebooks-loss-won-t-appeal-to-supreme-court-majority-161724429.html': No schema supplied. Perhaps you meant http:///news/apple-s-latest-ebooks-loss-won-t-appeal-to-supreme-court-majority-161724429.html? on /news/apple-s-latest-ebooks-loss-won-t-appeal-to-supreme-court-majority-161724429.html
+2015-07-02 15:13:24,776 DEBUG Invalid URL u'/news/new-balance-ups-game-with-new-ad-campaign-160854846.html': No schema supplied. Perhaps you meant http:///news/new-balance-ups-game-with-new-ad-campaign-160854846.html? on /news/new-balance-ups-game-with-new-ad-campaign-160854846.html
+2015-07-02 15:13:24,781 DEBUG Invalid URL u'/video/not-golden-arches-213000458.html': No schema supplied. Perhaps you meant http:///video/not-golden-arches-213000458.html? on /video/not-golden-arches-213000458.html
+2015-07-02 15:13:24,785 DEBUG Invalid URL u'/news/smucker-cuts-folgers-coffee-prices-woo-customers-back-201011158--finance.html': No schema supplied. Perhaps you meant http:///news/smucker-cuts-folgers-coffee-prices-woo-customers-back-201011158--finance.html? on /news/smucker-cuts-folgers-coffee-prices-woo-customers-back-201011158--finance.html
+2015-07-02 15:13:24,789 DEBUG Invalid URL u'/news/real-reasons-trader-joes-wine-142700517.html': No schema supplied. Perhaps you meant http:///news/real-reasons-trader-joes-wine-142700517.html? on /news/real-reasons-trader-joes-wine-142700517.html
+2015-07-02 15:13:24,794 DEBUG Invalid URL u'/news/real-reasons-trader-joes-wine-142700517.html': No schema supplied. Perhaps you meant http:///news/real-reasons-trader-joes-wine-142700517.html? on /news/real-reasons-trader-joes-wine-142700517.html
+2015-07-02 15:13:24,799 DEBUG Invalid URL u'/news/whole-foods-ceos-admit-charging-205621561.html': No schema supplied. Perhaps you meant http:///news/whole-foods-ceos-admit-charging-205621561.html? on /news/whole-foods-ceos-admit-charging-205621561.html
+2015-07-02 15:13:24,803 DEBUG Invalid URL u'/news/6-money-mistakes-newlyweds-182704907.html': No schema supplied. Perhaps you meant http:///news/6-money-mistakes-newlyweds-182704907.html? on /news/6-money-mistakes-newlyweds-182704907.html
+2015-07-02 15:13:24,810 DEBUG Invalid URL u'/news/unexpected----and-brilliant----ways-these-people-made-tons-of-money-202226509.html': No schema supplied. Perhaps you meant http:///news/unexpected----and-brilliant----ways-these-people-made-tons-of-money-202226509.html? on /news/unexpected----and-brilliant----ways-these-people-made-tons-of-money-202226509.html
+2015-07-02 15:13:24,817 INFO Starting new HTTP connection (1): www.latimes.com
+2015-07-02 15:13:25,430 DEBUG "GET /business/realestate/la-fi-rentwatch-20150702-story.html HTTP/1.1" 200 17819
+2015-07-02 15:13:29,774 DEBUG Invalid URL u'/news/airline-stocks-getting-crushed-182613717.html': No schema supplied. Perhaps you meant http:///news/airline-stocks-getting-crushed-182613717.html? on /news/airline-stocks-getting-crushed-182613717.html
+2015-07-02 15:13:29,778 DEBUG Invalid URL u'/news/toyotas-top-female-executive-arrested-japan-resigns-081208990.html': No schema supplied. Perhaps you meant http:///news/toyotas-top-female-executive-arrested-japan-resigns-081208990.html? on /news/toyotas-top-female-executive-arrested-japan-resigns-081208990.html
+2015-07-02 15:13:29,797 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:13:33,810 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /q?s=TM (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/q?s=TM
+2015-07-02 15:13:33,820 INFO Starting new HTTP connection (1): www.usatoday.com
+2015-07-02 15:13:34,548 DEBUG "GET /story/money/columnist/rieder/2015/07/01/cruz-rise-of-factchecking/29570541/ HTTP/1.1" 200 23976
+2015-07-02 15:13:36,007 DEBUG Invalid URL u'/news/macys-dumps-trump-clothing-line-response-comments-144813381--finance.html': No schema supplied. Perhaps you meant http:///news/macys-dumps-trump-clothing-line-response-comments-144813381--finance.html? on /news/macys-dumps-trump-clothing-line-response-comments-144813381--finance.html
+2015-07-02 15:13:36,017 INFO Starting new HTTP connection (1): 247wallst.com
+2015-07-02 15:13:36,799 DEBUG "GET /investing/2015/07/01/6-analyst-stocks-predicted-to-double/ HTTP/1.1" 200 None
+2015-07-02 15:13:37,439 DEBUG Invalid URL u'/news/puerto-rico-paid-1-9b-205313627.html': No schema supplied. Perhaps you meant http:///news/puerto-rico-paid-1-9b-205313627.html? on /news/puerto-rico-paid-1-9b-205313627.html
+2015-07-02 15:13:37,445 DEBUG Invalid URL u'/video/fired-macy-latest-dump-trump-164616336.html': No schema supplied. Perhaps you meant http:///video/fired-macy-latest-dump-trump-164616336.html? on /video/fired-macy-latest-dump-trump-164616336.html
+2015-07-02 15:13:37,461 INFO Starting new HTTP connection (1): www.usatoday.com
+2015-07-02 15:13:37,821 DEBUG "GET /story/money/cars/2015/07/01/dodge-hellcat-ads/29596259/ HTTP/1.1" 200 28647
+2015-07-02 15:13:39,502 INFO Starting new HTTP connection (1): www.investopedia.com
+2015-07-02 15:13:40,667 DEBUG "GET /articles/personal-finance/070115/3-secrets-you-didnt-know-about-estate-planning.asp?partner=YahooSA HTTP/1.1" 200 20050
+2015-07-02 15:13:41,940 INFO Starting new HTTP connection (1): fortune.com
+2015-07-02 15:13:43,067 DEBUG "GET /2015/07/01/del-taco-meet-the-burrito-that-sits-between-chipotle-and-taco-bell/?xid=yahoo_fortune HTTP/1.1" 200 None
+2015-07-02 15:13:43,539 DEBUG Invalid URL u'/news/radioshack-lives-closes-26-2-163745044.html': No schema supplied. Perhaps you meant http:///news/radioshack-lives-closes-26-2-163745044.html? on /news/radioshack-lives-closes-26-2-163745044.html
+2015-07-02 15:13:43,546 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:13:47,552 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /q?s=RSH (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/q?s=RSH
+2015-07-02 15:13:47,562 INFO Starting new HTTP connection (1): www.bizjournals.com
+2015-07-02 15:13:48,810 DEBUG "GET /denver/blog/earth_to_power/2015/07/fourpoint-energy-snagging-oklahoma-assets-from.html?ana=yahoo HTTP/1.1" 200 None
+2015-07-02 15:13:48,869 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:13:52,878 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /q?s=CHK (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/q?s=CHK
+2015-07-02 15:13:52,888 INFO Starting new HTTP connection (1): www.bloomberg.com
+2015-07-02 15:13:58,351 DEBUG HTTPConnectionPool(host='www.bloomberg.com', port=80): Max retries exceeded with url: /news/articles/2015-07-01/naira-crashes-on-parallel-market-after-nigeria-extends-curbs?cmpid=yhoo (Caused by <class 'httplib.BadStatusLine'>: '') on http://www.bloomberg.com/news/articles/2015-07-01/naira-crashes-on-parallel-market-after-nigeria-extends-curbs?cmpid=yhoo
+2015-07-02 15:13:58,357 DEBUG Invalid URL u'/news/robert-shiller-stocks-pricey-heres-134833084.html': No schema supplied. Perhaps you meant http:///news/robert-shiller-stocks-pricey-heres-134833084.html? on /news/robert-shiller-stocks-pricey-heres-134833084.html
+2015-07-02 15:13:58,362 DEBUG Invalid URL u'/news/saudi-arabia-leaving-u-behind-215428719.html': No schema supplied. Perhaps you meant http:///news/saudi-arabia-leaving-u-behind-215428719.html? on /news/saudi-arabia-leaving-u-behind-215428719.html
+2015-07-02 15:13:58,366 DEBUG Invalid URL u'/video/hawking-schwarzenegger-grill-mark-zuckerberg-213529630.html': No schema supplied. Perhaps you meant http:///video/hawking-schwarzenegger-grill-mark-zuckerberg-213529630.html? on /video/hawking-schwarzenegger-grill-mark-zuckerberg-213529630.html
+2015-07-02 15:13:58,373 INFO Starting new HTTP connection (1): 247wallst.com
+2015-07-02 15:13:58,661 DEBUG "GET /aerospace-defense/2015/07/01/how-much-does-a-boeing-747-8-cost/ HTTP/1.1" 200 None
+2015-07-02 15:13:59,148 DEBUG Invalid URL u'/news/billionaire-saudi-prince-vows-donate-32-billion-fortune-144215727--finance.html': No schema supplied. Perhaps you meant http:///news/billionaire-saudi-prince-vows-donate-32-billion-fortune-144215727--finance.html? on /news/billionaire-saudi-prince-vows-donate-32-billion-fortune-144215727--finance.html
+2015-07-02 15:13:59,154 DEBUG Invalid URL u'/news/greece-default-why-isnt-gold-063032056.html': No schema supplied. Perhaps you meant http:///news/greece-default-why-isnt-gold-063032056.html? on /news/greece-default-why-isnt-gold-063032056.html
+2015-07-02 15:13:59,158 DEBUG Invalid URL u'/news/marijuana-delivery-apps-now-bring-the-doctors-to-you-\u2014-virtually-and-literally-164334226.html': No schema supplied. Perhaps you meant http:///news/marijuana-delivery-apps-now-bring-the-doctors-to-you-—-virtually-and-literally-164334226.html? on /news/marijuana-delivery-apps-now-bring-the-doctors-to-you-—-virtually-and-literally-164334226.html
+2015-07-02 15:13:59,162 DEBUG Invalid URL u'/news/a-social-network-for-your-neighborhood-202709725.html': No schema supplied. Perhaps you meant http:///news/a-social-network-for-your-neighborhood-202709725.html? on /news/a-social-network-for-your-neighborhood-202709725.html
+2015-07-02 15:13:59,169 INFO Starting new HTTP connection (1): davidnelsoncfa.tumblr.com
+2015-07-02 15:14:00,092 DEBUG "GET /post/122935003082/take-taylor-swifts-advice-on-the-market HTTP/1.1" 200 17708
+2015-07-02 15:14:01,333 INFO Starting new HTTP connection (1): ryandetrick.tumblr.com
+2015-07-02 15:14:02,353 DEBUG "GET /post/122894762075/why-2015-is-historically-boring HTTP/1.1" 200 14589
+2015-07-02 15:14:03,314 INFO Starting new HTTP connection (1): cfainstitute.tumblr.com
+2015-07-02 15:14:04,271 DEBUG "GET /post/122958050795/an-easier-way-to-understand-hedge-fund-leverage HTTP/1.1" 200 18611
+2015-07-02 15:14:05,370 DEBUG Invalid URL u'/video/cramers-silver-lining-volatile-market-222500572.html': No schema supplied. Perhaps you meant http:///video/cramers-silver-lining-volatile-market-222500572.html? on /video/cramers-silver-lining-volatile-market-222500572.html
+2015-07-02 15:14:05,377 INFO Starting new HTTPS connection (1): beap.gemini.yahoo.com
+2015-07-02 15:14:05,927 DEBUG "GET /mbclk?bv=1.0.0&es=vKzOf4kGIS9IZy6rj6Xy.RILxhZCAmG6Eso9QKvrVw38WmCQqXFttDQIJ5BpPmp3.GtKRphBKeAZCY3fyHCTJRANpbtJeTwQzlUKtDVdUKyHhveiH78RrDrGOKGKtRXRty0dbFXmJ.drOj_GEA271L.UeQgzhCqSBeYkg3pMI7Q6CX8XPikZXIu1UyrRdtiAJ7ziMsOJVYTXEfbwiGXypWJqDhvyeW4vbTi_d5QxnCgJ4CMBMXCBHYF8lC7MvydScN69HesgWCp4_fnz6OjcjuL06AxgeJIVEyhDrKl1DKsQVrtW0Y0tesVQxUw7BhU6Lsf.GrMwaF2_g7b.UnXsjTo.oZaOWghGlVGl3vFpwCdRpEPsd_uiMiyCKj3LOpj.GdY9Q1j2k8iUcOIP1.sMOMiaiioLFOiHjBtuhBMcR4_d7WZfCZGbP8MPhoa4PFca.nn7498f9LqYzgIbp.UBA50cPVFWko2NpXzKwcStBAzfM.nTJIbBvpdgk0j4APrtjjDF_Mwlfk4_qITPieimjZib2lg8bZ01VU3JFocDjEEscfm3jopfTWcXwVNKmW_wnNdgxoJQHhFVLODBgmvvEa_dQWJAyi3twfBmv_NDDgcxO2253P6ZcPwjlyo-%26lp= HTTP/1.1" 404 0
+2015-07-02 15:14:05,941 INFO Starting new HTTPS connection (1): beap.gemini.yahoo.com
+2015-07-02 15:14:06,173 DEBUG "GET /mbclk?bv=1.0.0&es=vKzOf4kGIS9IZy6rj6Xy.RILxhZCAmG6Eso9QKvrVw38WmCQqXFttDQIJ5BpPmp3.GtKRphBKeAZCY3fyHCTJRANpbtJeTwQzlUKtDVdUKyHhveiH78RrDrGOKGKtRXRty0dbFXmJ.drOj_GEA271L.UeQgzhCqSBeYkg3pMI7Q6CX8XPikZXIu1UyrRdtiAJ7ziMsOJVYTXEfbwiGXypWJqDhvyeW4vbTi_d5QxnCgJ4CMBMXCBHYF8lC7MvydScN69HesgWCp4_fnz6OjcjuL06AxgeJIVEyhDrKl1DKsQVrtW0Y0tesVQxUw7BhU6Lsf.GrMwaF2_g7b.UnXsjTo.oZaOWghGlVGl3vFpwCdRpEPsd_uiMiyCKj3LOpj.GdY9Q1j2k8iUcOIP1.sMOMiaiioLFOiHjBtuhBMcR4_d7WZfCZGbP8MPhoa4PFca.nn7498f9LqYzgIbp.UBA50cPVFWko2NpXzKwcStBAzfM.nTJIbBvpdgk0j4APrtjjDF_Mwlfk4_qITPieimjZib2lg8bZ01VU3JFocDjEEscfm3jopfTWcXwVNKmW_wnNdgxoJQHhFVLODBgmvvEa_dQWJAyi3twfBmv_NDDgcxO2253P6ZcPwjlyo-%26lp= HTTP/1.1" 404 0
+2015-07-02 15:14:06,187 INFO Starting new HTTPS connection (1): beap.gemini.yahoo.com
+2015-07-02 15:14:06,426 DEBUG "GET /mbclk?bv=1.0.0&es=vKzOf4kGIS9IZy6rj6Xy.RILxhZCAmG6Eso9QKvrVw38WmCQqXFttDQIJ5BpPmp3.GtKRphBKeAZCY3fyHCTJRANpbtJeTwQzlUKtDVdUKyHhveiH78RrDrGOKGKtRXRty0dbFXmJ.drOj_GEA271L.UeQgzhCqSBeYkg3pMI7Q6CX8XPikZXIu1UyrRdtiAJ7ziMsOJVYTXEfbwiGXypWJqDhvyeW4vbTi_d5QxnCgJ4CMBMXCBHYF8lC7MvydScN69HesgWCp4_fnz6OjcjuL06AxgeJIVEyhDrKl1DKsQVrtW0Y0tesVQxUw7BhU6Lsf.GrMwaF2_g7b.UnXsjTo.oZaOWghGlVGl3vFpwCdRpEPsd_uiMiyCKj3LOpj.GdY9Q1j2k8iUcOIP1.sMOMiaiioLFOiHjBtuhBMcR4_d7WZfCZGbP8MPhoa4PFca.nn7498f9LqYzgIbp.UBA50cPVFWko2NpXzKwcStBAzfM.nTJIbBvpdgk0j4APrtjjDF_Mwlfk4_qITPieimjZib2lg8bZ01VU3JFocDjEEscfm3jopfTWcXwVNKmW_wnNdgxoJQHhFVLODBgmvvEa_dQWJAyi3twfBmv_NDDgcxO2253P6ZcPwjlyo-%26lp= HTTP/1.1" 404 0
+2015-07-02 15:14:06,440 INFO Starting new HTTP connection (1): microfundy.com
+2015-07-02 15:14:07,821 DEBUG "GET /post/122938637805/why-i-like-ebay-after-the-paypal-spin-off HTTP/1.1" 200 17451
+2015-07-02 15:14:08,679 DEBUG ignore dims http://41.media.tumblr.com/f7a84cf0b6b97f1f6bd8d59341cc8e9b/tumblr_inline_nqsap6hzUW1slqdap_500.png
+2015-07-02 15:14:08,817 DEBUG ignore dims http://41.media.tumblr.com/9e78a5a2d58f4763f084f252fbcde20e/tumblr_inline_nqsaosn6lp1slqdap_500.png
+2015-07-02 15:14:15,862 CRITICAL jpeg error with PIL, ''
+2015-07-02 15:14:15,947 INFO Starting new HTTP connection (1): ryandetrick.tumblr.com
+2015-07-02 15:14:16,700 DEBUG "GET /post/122894762075/why-2015-is-historically-boring HTTP/1.1" 200 14589
+2015-07-02 15:14:17,603 INFO Starting new HTTP connection (1): davidnelsoncfa.tumblr.com
+2015-07-02 15:14:18,438 DEBUG "GET /post/122935003082/take-taylor-swifts-advice-on-the-market HTTP/1.1" 200 17708
+2015-07-02 15:14:19,455 INFO Starting new HTTP connection (1): thedealnewsroom.tumblr.com
+2015-07-02 15:14:20,370 DEBUG "GET /post/122873261157/pentair-ceo-wishy-washy-on-peltzs-m-a HTTP/1.1" 200 16279
+2015-07-02 15:14:22,368 INFO Starting new HTTP connection (1): theirrelevantinvestor.tumblr.com
+2015-07-02 15:14:23,291 DEBUG "GET /post/122952288048/what-you-need-to-know-about-the-200-day-moving HTTP/1.1" 200 14712
+2015-07-02 15:14:24,914 INFO Starting new HTTPS connection (1): www.facebook.com
+2015-07-02 15:14:54,926 DEBUG HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /yahoofinance (Caused by <class 'socket.gaierror'>: [Errno 8] nodename nor servname provided, or not known) on https://www.facebook.com/yahoofinance
+2015-07-02 15:14:54,935 INFO Starting new HTTPS connection (1): www.facebook.com
+2015-07-02 15:14:54,937 DEBUG HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /yahoofinance (Caused by <class 'socket.gaierror'>: [Errno 8] nodename nor servname provided, or not known) on https://www.facebook.com/yahoofinance
+2015-07-02 15:14:54,946 INFO Starting new HTTPS connection (1): twitter.com
+2015-07-02 15:15:02,078 DEBUG (<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x11268c9d0>, 'Connection to twitter.com timed out. (connect timeout=7)') on https://twitter.com/YahooFinance
+2015-07-02 15:15:02,088 INFO Starting new HTTPS connection (1): twitter.com
+2015-07-02 15:15:09,094 DEBUG (<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x11268cb10>, 'Connection to twitter.com timed out. (connect timeout=7)') on https://twitter.com/YahooFinance
+2015-07-02 15:15:09,105 INFO Starting new HTTP connection (1): help.yahoo.com
+2015-07-02 15:15:09,654 DEBUG "GET //l/us/yahoo/finance/ HTTP/1.1" 302 361
+2015-07-02 15:15:09,663 INFO Starting new HTTPS connection (1): help.yahoo.com
+2015-07-02 15:15:10,907 DEBUG "GET /kb/index?locale=en_US&page=product&y=PROD_FIN&actp=lorax HTTP/1.1" 302 1499
+2015-07-02 15:15:12,162 DEBUG "GET /mkb/product.php?locale=en_US&page=product&y=PROD_FIN&actp=lorax HTTP/1.1" 200 8247
+2015-07-02 15:15:12,662 INFO Starting new HTTP connection (1): info.yahoo.com
+2015-07-02 15:15:13,518 DEBUG "GET /relevantads/ HTTP/1.1" 302 None
+2015-07-02 15:15:13,527 INFO Starting new HTTPS connection (1): info.yahoo.com
+2015-07-02 15:15:13,606 DEBUG HTTPSConnectionPool(host='info.yahoo.com', port=443): Max retries exceeded with url: /privacy/us/yahoo/relevantads.html (Caused by <class 'socket.error'>: [Errno 32] Broken pipe) on http://info.yahoo.com/relevantads/
+2015-07-02 15:15:13,608 DEBUG crawl finance_home, end.............. 
+2015-07-02 15:15:13,608 DEBUG crawl http://finance.yahoo.com/q/h?s=BIDU, start............ 
+2015-07-02 15:15:13,609 INFO crawl http://finance.yahoo.com/q/h?s=BIDU, 1 time
+2015-07-02 15:15:17,918 ERROR crawl_page failed ,Error:Traceback (most recent call last):
+  File "/Users/liqing/Documents/workspace/finance-news-crawler/crawl/basecrawl.py", line 59, in crawl_page
+    response = opener.open(req_url,timeout=20)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 404, in open
+    response = self._open(req, data)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 422, in _open
+    '_open', req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 382, in _call_chain
+    result = func(*args)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1214, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1187, in do_open
+    r = h.getresponse(buffering=True)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 1045, in getresponse
+    response.begin()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 409, in begin
+    version, status, reason = self._read_status()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 373, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+2015-07-02 15:15:17,919 INFO crawl http://finance.yahoo.com/q/h?s=BIDU, 2 time
+2015-07-02 15:15:21,241 INFO crawl http://finance.yahoo.com/q/h?s=BIDU, success 
+2015-07-02 15:15:21,552 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:15:25,558 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /news/baidus-3-2-billion-push-174005883.html (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/news/baidus-3-2-billion-push-174005883.html
+2015-07-02 15:15:25,568 INFO Starting new HTTP connection (1): us.rd.yahoo.com
+2015-07-02 15:15:26,582 DEBUG "GET /finance/external/tsmfe/SIG=13qlsrngi/*http://www.thestreet.com/story/13201212/1/10-stocks-that-big-investors-like-buffett-and-soros-are-backing-away-from.html?puc=yahoo&cm_ven=YAHOO HTTP/1.1" 302 None
+2015-07-02 15:15:26,591 INFO Starting new HTTP connection (1): www.thestreet.com
+2015-07-02 15:15:28,248 DEBUG "GET /story/13201212/1/10-stocks-that-big-investors-like-buffett-and-soros-are-backing-away-from.html?puc=yahoo&cm_ven=YAHOO HTTP/1.1" 200 31042
+2015-07-02 15:15:29,775 ERROR crawl_page failed ,Error:Traceback (most recent call last):
+  File "/Users/liqing/Documents/workspace/finance-news-crawler/crawl/newsextracte.py", line 220, in extract_news
+    cursor.execute(in_sql,content)
+  File "/Library/Python/2.7/site-packages/MySQL_python-1.2.4b4-py2.7-macosx-10.10-intel.egg/MySQLdb/cursors.py", line 202, in execute
+    self.errorhandler(self, exc, value)
+  File "/Library/Python/2.7/site-packages/MySQL_python-1.2.4b4-py2.7-macosx-10.10-intel.egg/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+DataError: (1406, "Data too long for column 'url' at row 1")
+
+2015-07-02 15:15:29,785 INFO Starting new HTTP connection (1): us.rd.yahoo.com
+2015-07-02 15:15:30,438 DEBUG "GET /finance/external/xsgi/SIG=126sao42q/*http://sgi.seleritycorp.com/baidu-to-invest-more-in-nuomi-unit-bidu/ HTTP/1.1" 302 None
+2015-07-02 15:15:30,446 INFO Starting new HTTP connection (1): sgi.seleritycorp.com
+2015-07-02 15:15:31,715 DEBUG "GET /baidu-to-invest-more-in-nuomi-unit-bidu/ HTTP/1.1" 200 16101
+2015-07-02 15:15:34,313 DEBUG ignore dims http://sgi.seleritycorp.com/wp-content/uploads/2014/03/logo.png
+2015-07-02 15:15:35,145 DEBUG ignore little http://sgi.seleritycorp.com/wp-content/themes/selerity/images/icon-burger.png
+2015-07-02 15:15:35,146 CRITICAL jpeg error with PIL, cannot concatenate 'str' and 'NoneType' objects
+2015-07-02 15:15:35,175 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:15:36,603 DEBUG "GET /video/fast-money-final-trade-bidu-212800122.html HTTP/1.1" 200 None
+2015-07-02 15:15:38,809 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:15:42,816 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /news/zacks-analyst-blog-highlights-china-133001102.html (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/news/zacks-analyst-blog-highlights-china-133001102.html
+2015-07-02 15:15:42,826 DEBUG No connection adapters were found for '/q/h?s=BIDU&t=2015-06-23T19:35:00-04:00' on /q/h?s=BIDU&t=2015-06-23T19:35:00-04:00
+2015-07-02 15:15:42,827 DEBUG crawl BIDU, end.............. 
+2015-07-02 15:15:42,828 DEBUG crawl http://finance.yahoo.com/q/h?s=RLOG, start............ 
+2015-07-02 15:15:42,828 INFO crawl http://finance.yahoo.com/q/h?s=RLOG, 1 time
+2015-07-02 15:15:44,762 INFO crawl http://finance.yahoo.com/q/h?s=RLOG, success 
+2015-07-02 15:15:45,089 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:15:45,320 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /news/rand-logistics-streamlines-organizational-structure-203838964.html (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/news/rand-logistics-streamlines-organizational-structure-203838964.html
+2015-07-02 15:15:45,329 INFO Starting new HTTP connection (1): biz.yahoo.com
+2015-07-02 15:15:49,695 DEBUG HTTPConnectionPool(host='biz.yahoo.com', port=80): Max retries exceeded with url: /e/150611/rlog8-k.html (Caused by <class 'httplib.BadStatusLine'>: '') on http://biz.yahoo.com/e/150611/rlog8-k.html
+2015-07-02 15:15:49,706 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:15:49,763 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /news/rand-logistics-reports-fiscal-2015-232627108.html (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/news/rand-logistics-reports-fiscal-2015-232627108.html
+2015-07-02 15:15:49,773 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-02 15:15:50,998 DEBUG "GET /news/rand-logistics-posts-3q-profit-234600247.html HTTP/1.1" 200 None
+2015-07-02 15:15:52,908 DEBUG No connection adapters were found for '/q/h?s=RLOG&t=2015-02-04T18:46:00-05:00' on /q/h?s=RLOG&t=2015-02-04T18:46:00-05:00
+2015-07-02 15:15:52,909 DEBUG crawl RLOG, end.............. 
+2015-07-02 15:15:52,910 INFO number of news url is 75
+2015-07-02 15:15:52,911 INFO crawl yahoo finance end......
+2015-07-03 16:21:01,442 INFO crawl yahoo finance start......
+2015-07-03 16:21:01,496 INFO number of companys is 3
+2015-07-03 16:21:01,497 DEBUG crawl http://finance.yahoo.com/, start............ 
+2015-07-03 16:21:01,497 INFO crawl http://finance.yahoo.com/, 1 time
+2015-07-03 16:21:03,746 INFO crawl http://finance.yahoo.com/, success 
+2015-07-03 16:21:04,384 INFO Starting new HTTPS connection (1): www.facebook.com
+2015-07-03 16:21:17,706 DEBUG (<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x10ca8a3d0>, 'Connection to www.facebook.com timed out. (connect timeout=7)') on https://www.facebook.com/yahoofinance
+2015-07-03 16:21:17,716 INFO Starting new HTTPS connection (1): www.facebook.com
+2015-07-03 16:21:24,722 DEBUG (<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x10ca8a450>, 'Connection to www.facebook.com timed out. (connect timeout=7)') on https://www.facebook.com/yahoofinance
+2015-07-03 16:21:24,733 INFO Starting new HTTPS connection (1): twitter.com
+2015-07-03 16:21:25,510 DEBUG [Errno 1] _ssl.c:507: error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed on https://twitter.com/YahooFinance
+2015-07-03 16:21:25,518 INFO Starting new HTTPS connection (1): twitter.com
+2015-07-03 16:21:26,133 DEBUG [Errno 1] _ssl.c:507: error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed on https://twitter.com/YahooFinance
+2015-07-03 16:21:26,139 DEBUG Invalid URL u'/news/opinion-poll-shows-yes-vote-053427838.html': No schema supplied. Perhaps you meant http:///news/opinion-poll-shows-yes-vote-053427838.html? on /news/opinion-poll-shows-yes-vote-053427838.html
+2015-07-03 16:21:26,145 DEBUG Invalid URL u'/news/opinion-poll-shows-yes-vote-053427838.html': No schema supplied. Perhaps you meant http:///news/opinion-poll-shows-yes-vote-053427838.html? on /news/opinion-poll-shows-yes-vote-053427838.html
+2015-07-03 16:21:26,149 DEBUG Invalid URL u'/news/aetna-nears-deal-buy-humana-013240008.html': No schema supplied. Perhaps you meant http:///news/aetna-nears-deal-buy-humana-013240008.html? on /news/aetna-nears-deal-buy-humana-013240008.html
+2015-07-03 16:21:26,153 DEBUG Invalid URL u'/news/asia-shares-subdued-u-data-003850377.html': No schema supplied. Perhaps you meant http:///news/asia-shares-subdued-u-data-003850377.html? on /news/asia-shares-subdued-u-data-003850377.html
+2015-07-03 16:21:26,157 DEBUG Invalid URL u'/news/bp-reaches-18-7-billion-012509057.html': No schema supplied. Perhaps you meant http:///news/bp-reaches-18-7-billion-012509057.html? on /news/bp-reaches-18-7-billion-012509057.html
+2015-07-03 16:21:26,161 DEBUG Invalid URL u'/news/struggle-stem-market-rout-china-010839081.html': No schema supplied. Perhaps you meant http:///news/struggle-stem-market-rout-china-010839081.html? on /news/struggle-stem-market-rout-china-010839081.html
+2015-07-03 16:21:26,165 DEBUG Invalid URL u'/news/markets-eye-greece-now-then-210512772.html': No schema supplied. Perhaps you meant http:///news/markets-eye-greece-now-then-210512772.html? on /news/markets-eye-greece-now-then-210512772.html
+2015-07-03 16:21:26,169 DEBUG Invalid URL u'/news/markets-eye-greece-now-then-210512772.html': No schema supplied. Perhaps you meant http:///news/markets-eye-greece-now-then-210512772.html? on /news/markets-eye-greece-now-then-210512772.html
+2015-07-03 16:21:26,174 DEBUG Invalid URL u'/news/how-a-jewish-fortune-ended-up-funding-a-white-supremacist-170317996.html': No schema supplied. Perhaps you meant http:///news/how-a-jewish-fortune-ended-up-funding-a-white-supremacist-170317996.html? on /news/how-a-jewish-fortune-ended-up-funding-a-white-supremacist-170317996.html
+2015-07-03 16:21:26,178 DEBUG Invalid URL u'/news/summer-spirit-sakes-are-soaring-200405729.html': No schema supplied. Perhaps you meant http:///news/summer-spirit-sakes-are-soaring-200405729.html? on /news/summer-spirit-sakes-are-soaring-200405729.html
+2015-07-03 16:21:26,182 DEBUG Invalid URL u'/news/us-stocks-open-higher-street-133908840.html': No schema supplied. Perhaps you meant http:///news/us-stocks-open-higher-street-133908840.html? on /news/us-stocks-open-higher-street-133908840.html
+2015-07-03 16:21:26,187 DEBUG Invalid URL u'/news/much-americans-spend-july-4-200656921.html': No schema supplied. Perhaps you meant http:///news/much-americans-spend-july-4-200656921.html? on /news/much-americans-spend-july-4-200656921.html
+2015-07-03 16:21:26,191 DEBUG Invalid URL u'/news/much-americans-spend-july-4-200656921.html': No schema supplied. Perhaps you meant http:///news/much-americans-spend-july-4-200656921.html? on /news/much-americans-spend-july-4-200656921.html
+2015-07-03 16:21:26,197 DEBUG Invalid URL u'/news/can-i-really-negotiate-my-doctor-s-bills--192112806.html': No schema supplied. Perhaps you meant http:///news/can-i-really-negotiate-my-doctor-s-bills--192112806.html? on /news/can-i-really-negotiate-my-doctor-s-bills--192112806.html
+2015-07-03 16:21:26,202 DEBUG Invalid URL u'/news/cash-buyers-getting-housing-market-110007836.html': No schema supplied. Perhaps you meant http:///news/cash-buyers-getting-housing-market-110007836.html? on /news/cash-buyers-getting-housing-market-110007836.html
+2015-07-03 16:21:26,208 DEBUG Invalid URL u'/news/real-reasons-trader-joes-wine-142700517.html': No schema supplied. Perhaps you meant http:///news/real-reasons-trader-joes-wine-142700517.html? on /news/real-reasons-trader-joes-wine-142700517.html
+2015-07-03 16:21:26,216 INFO Starting new HTTP connection (1): www.cnbc.com
+2015-07-03 16:21:27,177 DEBUG "GET /id/102805787?__source=yahoo%7Cfinance%7Cheadline%7Cheadline%7Cstory&par=yahoo&doc=102805787 HTTP/1.1" 200 23029
+2015-07-03 16:21:32,521 DEBUG Invalid URL u'/news/windows-10-lose-free-upgrade-141500175.html': No schema supplied. Perhaps you meant http:///news/windows-10-lose-free-upgrade-141500175.html? on /news/windows-10-lose-free-upgrade-141500175.html
+2015-07-03 16:21:32,528 DEBUG Invalid URL u'/news/arizona-copper-mine-stirs-debate-pitting-profits-vs-060945912--finance.html': No schema supplied. Perhaps you meant http:///news/arizona-copper-mine-stirs-debate-pitting-profits-vs-060945912--finance.html? on /news/arizona-copper-mine-stirs-debate-pitting-profits-vs-060945912--finance.html
+2015-07-03 16:21:32,536 DEBUG Invalid URL u'/news/cramer-best-way-protect-declining-233440187.html': No schema supplied. Perhaps you meant http:///news/cramer-best-way-protect-declining-233440187.html? on /news/cramer-best-way-protect-declining-233440187.html
+2015-07-03 16:21:32,544 DEBUG Invalid URL u'/news/bearish-news-oil-growing-day-212413945.html': No schema supplied. Perhaps you meant http:///news/bearish-news-oil-growing-day-212413945.html? on /news/bearish-news-oil-growing-day-212413945.html
+2015-07-03 16:21:32,565 INFO Starting new HTTP connection (1): blogs.barrons.com
+2015-07-03 16:21:33,653 DEBUG "GET /incomeinvesting/2015/07/02/heres-why-reits-are-set-to-rebound-citi/?mod=yahoobarrons&ru=yahoo HTTP/1.1" 200 20829
+2015-07-03 16:21:34,320 DEBUG Invalid URL u'/news/hp-splits-employees-not-able-172347034.html': No schema supplied. Perhaps you meant http:///news/hp-splits-employees-not-able-172347034.html? on /news/hp-splits-employees-not-able-172347034.html
+2015-07-03 16:21:34,328 DEBUG Invalid URL u'/video/iphone-6s-pix-leaked-212300799.html': No schema supplied. Perhaps you meant http:///video/iphone-6s-pix-leaked-212300799.html? on /video/iphone-6s-pix-leaked-212300799.html
+2015-07-03 16:21:34,336 DEBUG Invalid URL u'/news/cash-buyers-getting-housing-market-110007836.html': No schema supplied. Perhaps you meant http:///news/cash-buyers-getting-housing-market-110007836.html? on /news/cash-buyers-getting-housing-market-110007836.html
+2015-07-03 16:21:34,344 DEBUG Invalid URL u'/news/china-stocks-plunge-market-rout-033455406.html': No schema supplied. Perhaps you meant http:///news/china-stocks-plunge-market-rout-033455406.html? on /news/china-stocks-plunge-market-rout-033455406.html
+2015-07-03 16:21:34,354 INFO Starting new HTTP connection (1): www.investopedia.com
+2015-07-03 16:21:35,568 DEBUG "GET /articles/personal-finance/070215/retire-wealthy-millennial-march-1000000.asp?partner=YahooSA HTTP/1.1" 200 20951
+2015-07-03 16:21:36,886 DEBUG Invalid URL u'/news/case-greece-forgave-germanys-debt-154706236--finance.html': No schema supplied. Perhaps you meant http:///news/case-greece-forgave-germanys-debt-154706236--finance.html? on /news/case-greece-forgave-germanys-debt-154706236--finance.html
+2015-07-03 16:21:36,891 DEBUG Invalid URL u'/video/whats-come-iphone-6s-pro-153400370.html': No schema supplied. Perhaps you meant http:///video/whats-come-iphone-6s-pro-153400370.html? on /video/whats-come-iphone-6s-pro-153400370.html
+2015-07-03 16:21:36,899 INFO Starting new HTTP connection (1): www.thestreet.com
+2015-07-03 16:21:38,145 DEBUG "GET /story/13207196/1/biotech-stock-mailbag-grading-2015-biotech-predictions-at-the-halfway-point.html?puc=yahoo&cm_ven=YAHOO HTTP/1.1" 200 30473
+2015-07-03 16:21:39,412 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-03 16:21:40,104 DEBUG "GET /q?s=CELG HTTP/1.1" 200 None
+2015-07-03 16:21:41,606 INFO Starting new HTTP connection (1): www.marketwatch.com
+2015-07-03 16:21:42,409 DEBUG "GET /News/Story/Story.aspx?guid=4AD0BBA6-20BC-11E5-BE26-3895793CC0AC&siteid=yhoof2 HTTP/1.1" 301 0
+2015-07-03 16:21:43,471 DEBUG "GET /story/the-real-reason-gold-has-been-falling-2015-07-02?siteid=yhoof2 HTTP/1.1" 200 31745
+2015-07-03 16:21:45,248 DEBUG Invalid URL u'/news/iceman-raikkonen-feeling-heat-says-massa-153101189--f1.html': No schema supplied. Perhaps you meant http:///news/iceman-raikkonen-feeling-heat-says-massa-153101189--f1.html? on /news/iceman-raikkonen-feeling-heat-says-massa-153101189--f1.html
+2015-07-03 16:21:45,256 INFO Starting new HTTP connection (1): www.latimes.com
+2015-07-03 16:21:45,855 DEBUG "GET /business/la-fi-russian-space-launch-progress-20150702-story.html HTTP/1.1" 200 17745
+2015-07-03 16:21:46,982 INFO Starting new HTTP connection (1): www.thestreet.com
+2015-07-03 16:21:48,341 DEBUG "GET /story/13206033/1/bank-of-americas-10-best-stock-ideas-for-the-third-quarter.html?puc=yahoo&cm_ven=YAHOO HTTP/1.1" 200 31627
+2015-07-03 16:21:49,589 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-03 16:21:53,597 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /q?s=BAC (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/q?s=BAC
+2015-07-03 16:21:53,607 INFO Starting new HTTP connection (1): www.bloombergview.com
+2015-07-03 16:21:54,327 DEBUG "GET /articles/2015-07-02/china-s-boom-has-world-bank-worried?cmpid=yhoo HTTP/1.1" 302 0
+2015-07-03 16:21:54,336 INFO Starting new HTTP connection (1): www.bloomberg.com
+2015-07-03 16:21:58,483 DEBUG HTTPConnectionPool(host='www.bloomberg.com', port=80): Max retries exceeded with url: /company/?cmpid=yhoo (Caused by <class 'httplib.BadStatusLine'>: '') on http://www.bloombergview.com/articles/2015-07-02/china-s-boom-has-world-bank-worried?cmpid=yhoo
+2015-07-03 16:21:58,489 DEBUG Invalid URL u'/news/never-mind-greece--europe-will-beat-the-u-s---strategist-165305144.html': No schema supplied. Perhaps you meant http:///news/never-mind-greece--europe-will-beat-the-u-s---strategist-165305144.html? on /news/never-mind-greece--europe-will-beat-the-u-s---strategist-165305144.html
+2015-07-03 16:21:58,497 INFO Starting new HTTP connection (1): cfainstitute.tumblr.com
+2015-07-03 16:21:59,497 DEBUG "GET /post/123046284670/internet-finance-and-china-will-banking HTTP/1.1" 200 19499
+2015-07-03 16:22:00,709 DEBUG Invalid URL u'/news/big-banks-spending-even-more-than-vcs-on-future-of-finance-145337246.html': No schema supplied. Perhaps you meant http:///news/big-banks-spending-even-more-than-vcs-on-future-of-finance-145337246.html? on /news/big-banks-spending-even-more-than-vcs-on-future-of-finance-145337246.html
+2015-07-03 16:22:00,717 INFO Starting new HTTP connection (1): jlfmi.tumblr.com
+2015-07-03 16:22:01,647 DEBUG "GET /post/123055681315/wild-shanghai-express-makes-an-important-stop HTTP/1.1" 200 16439
+2015-07-03 16:22:02,538 DEBUG Invalid URL u'/news/breaking-news--job-jobs-report-114846243.html': No schema supplied. Perhaps you meant http:///news/breaking-news--job-jobs-report-114846243.html? on /news/breaking-news--job-jobs-report-114846243.html
+2015-07-03 16:22:02,542 DEBUG Invalid URL u'/news/central-russian-officials-ban-yoga-for-being-too-cult-like--weird-business-news-124643896.html': No schema supplied. Perhaps you meant http:///news/central-russian-officials-ban-yoga-for-being-too-cult-like--weird-business-news-124643896.html? on /news/central-russian-officials-ban-yoga-for-being-too-cult-like--weird-business-news-124643896.html
+2015-07-03 16:22:02,550 INFO Starting new HTTPS connection (1): www.facebook.com
+2015-07-03 16:22:09,553 DEBUG (<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x1196955d0>, 'Connection to www.facebook.com timed out. (connect timeout=7)') on https://www.facebook.com/yahoofinance
+2015-07-03 16:22:09,562 INFO Starting new HTTPS connection (1): www.facebook.com
+2015-07-03 16:22:16,568 DEBUG (<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x119695610>, 'Connection to www.facebook.com timed out. (connect timeout=7)') on https://www.facebook.com/yahoofinance
+2015-07-03 16:22:16,579 INFO Starting new HTTPS connection (1): twitter.com
+2015-07-03 16:22:17,219 DEBUG [Errno 1] _ssl.c:507: error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed on https://twitter.com/YahooFinance
+2015-07-03 16:22:17,228 INFO Starting new HTTPS connection (1): twitter.com
+2015-07-03 16:22:17,837 DEBUG [Errno 1] _ssl.c:507: error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed on https://twitter.com/YahooFinance
+2015-07-03 16:22:17,847 INFO Starting new HTTP connection (1): info.yahoo.com
+2015-07-03 16:22:21,853 DEBUG HTTPConnectionPool(host='info.yahoo.com', port=80): Max retries exceeded with url: /relevantads/ (Caused by <class 'httplib.BadStatusLine'>: '') on http://info.yahoo.com/relevantads/
+2015-07-03 16:22:21,855 DEBUG crawl finance_home, end.............. 
+2015-07-03 16:22:21,856 DEBUG crawl http://finance.yahoo.com/q/h?s=BIDU, start............ 
+2015-07-03 16:22:21,856 INFO crawl http://finance.yahoo.com/q/h?s=BIDU, 1 time
+2015-07-03 16:22:23,372 INFO crawl http://finance.yahoo.com/q/h?s=BIDU, success 
+2015-07-03 16:22:23,681 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-03 16:22:24,624 DEBUG "GET /news/ap-exclusive-china-ministry-posted-061840596.html HTTP/1.1" 200 None
+2015-07-03 16:22:26,490 INFO Starting new HTTP connection (1): us.rd.yahoo.com
+2015-07-03 16:22:27,235 DEBUG "GET /finance/external/investopedia/SIG=137jibiil/*http://www.investopedia.com/stock-analysis/070215/baidu-invests-32-billion-nuomi-bidu-renn-tcehy.aspx?partner=YahooSA HTTP/1.1" 302 None
+2015-07-03 16:22:27,243 INFO Starting new HTTP connection (1): www.investopedia.com
+2015-07-03 16:22:27,967 DEBUG "GET /stock-analysis/070215/baidu-invests-32-billion-nuomi-bidu-renn-tcehy.aspx?partner=YahooSA HTTP/1.1" 200 19369
+2015-07-03 16:22:29,017 INFO Starting new HTTP connection (1): us.rd.yahoo.com
+2015-07-03 16:22:29,636 DEBUG "GET /finance/external/investors/SIG=132ei1hjt/*http://news.investors.com/070215-760025-will-uber-clash-with-china-rival-in-china-and-the-us.htm?ven=yahoocp&src=aurlled&ven=yahoo HTTP/1.1" 302 None
+2015-07-03 16:22:29,645 INFO Starting new HTTP connection (1): news.investors.com
+2015-07-03 16:22:30,578 DEBUG "GET /070215-760025-will-uber-clash-with-china-rival-in-china-and-the-us.htm?ven=yahoocp&src=aurlled&ven=yahoo HTTP/1.1" 200 35183
+2015-07-03 16:22:32,223 INFO Starting new HTTP connection (1): us.rd.yahoo.com
+2015-07-03 16:22:32,770 DEBUG "GET /finance/external/forbes/SIG=13et7uqpv/*http://www.forbes.com/sites/russellflannery/2015/07/02/baidu-teams-up-with-cocobuy-for-intelligent-hardware/?utm_campaign=yahootix&partner=yahootix HTTP/1.1" 302 None
+2015-07-03 16:22:32,779 INFO Starting new HTTP connection (1): www.forbes.com
+2015-07-03 16:22:33,398 DEBUG "GET /sites/russellflannery/2015/07/02/baidu-teams-up-with-cocobuy-for-intelligent-hardware/?utm_campaign=yahootix&partner=yahootix HTTP/1.1" 200 16771
+2015-07-03 16:22:34,130 ERROR crawl_page failed ,Error:Traceback (most recent call last):
+  File "/Users/liqing/Documents/workspace/finance-news-crawler/crawl/newsextracte.py", line 226, in extract_news
+    cursor.execute(in_sql,content)
+  File "/Library/Python/2.7/site-packages/MySQL_python-1.2.4b4-py2.7-macosx-10.10-intel.egg/MySQLdb/cursors.py", line 202, in execute
+    self.errorhandler(self, exc, value)
+  File "/Library/Python/2.7/site-packages/MySQL_python-1.2.4b4-py2.7-macosx-10.10-intel.egg/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+DataError: (1406, "Data too long for column 'url' at row 1")
+
+2015-07-03 16:22:34,139 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-03 16:22:38,143 DEBUG HTTPConnectionPool(host='finance.yahoo.com', port=80): Max retries exceeded with url: /news/baidus-3-2-billion-push-174005883.html (Caused by <class 'httplib.BadStatusLine'>: '') on http://finance.yahoo.com/news/baidus-3-2-billion-push-174005883.html
+2015-07-03 16:22:38,153 INFO Starting new HTTP connection (1): us.rd.yahoo.com
+2015-07-03 16:22:38,723 DEBUG "GET /finance/external/tsmfe/SIG=13qlsrngi/*http://www.thestreet.com/story/13201212/1/10-stocks-that-big-investors-like-buffett-and-soros-are-backing-away-from.html?puc=yahoo&cm_ven=YAHOO HTTP/1.1" 302 None
+2015-07-03 16:22:38,732 INFO Starting new HTTP connection (1): www.thestreet.com
+2015-07-03 16:22:39,980 DEBUG "GET /story/13201212/1/10-stocks-that-big-investors-like-buffett-and-soros-are-backing-away-from.html?puc=yahoo&cm_ven=YAHOO HTTP/1.1" 200 30915
+2015-07-03 16:22:41,154 ERROR crawl_page failed ,Error:Traceback (most recent call last):
+  File "/Users/liqing/Documents/workspace/finance-news-crawler/crawl/newsextracte.py", line 226, in extract_news
+    cursor.execute(in_sql,content)
+  File "/Library/Python/2.7/site-packages/MySQL_python-1.2.4b4-py2.7-macosx-10.10-intel.egg/MySQLdb/cursors.py", line 202, in execute
+    self.errorhandler(self, exc, value)
+  File "/Library/Python/2.7/site-packages/MySQL_python-1.2.4b4-py2.7-macosx-10.10-intel.egg/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+DataError: (1406, "Data too long for column 'url' at row 1")
+
+2015-07-03 16:22:41,167 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-03 16:22:42,170 DEBUG "GET /news/zacks-analyst-blog-highlights-china-133001102.html HTTP/1.1" 200 None
+2015-07-03 16:22:44,348 DEBUG No connection adapters were found for '/q/h?s=BIDU&t=2015-06-25T15:27:07-04:00' on /q/h?s=BIDU&t=2015-06-25T15:27:07-04:00
+2015-07-03 16:22:44,349 DEBUG crawl BIDU, end.............. 
+2015-07-03 16:22:44,349 DEBUG crawl http://finance.yahoo.com/q/h?s=RLOG, start............ 
+2015-07-03 16:22:44,350 INFO crawl http://finance.yahoo.com/q/h?s=RLOG, 1 time
+2015-07-03 16:22:45,630 INFO crawl http://finance.yahoo.com/q/h?s=RLOG, success 
+2015-07-03 16:22:45,953 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-03 16:22:47,081 DEBUG "GET /news/rand-logistics-streamlines-organizational-structure-203838964.html HTTP/1.1" 200 None
+2015-07-03 16:22:48,961 INFO Starting new HTTP connection (1): biz.yahoo.com
+2015-07-03 16:22:49,796 DEBUG "GET /e/150611/rlog8-k.html HTTP/1.1" 200 None
+2015-07-03 16:22:50,325 DEBUG ignore dims http://l.yimg.com/rz/d/yahoo_finance_en-US_s_f_p_191x21_finance_2x.png
+2015-07-03 16:22:50,902 DEBUG ignore little http://us.i1.yimg.com/us.yimg.com/i/us/fi/02rd/tadd.gif
+2015-07-03 16:22:51,124 DEBUG ignore little http://us.i1.yimg.com/us.yimg.com/i/us/hdr/cn/stw3.gif
+2015-07-03 16:22:51,353 DEBUG ignore little http://us.i1.yimg.com/us.yimg.com/i/us/fi/gr/edgar2.gif
+2015-07-03 16:22:51,631 DEBUG ignore little http://us.i1.yimg.com/us.yimg.com/i/us/fi/02rd/talert.gif
+2015-07-03 16:22:51,875 DEBUG ignore little http://us.i1.yimg.com/us.yimg.com/i/us/fi/02rd/temail.gif
+2015-07-03 16:22:51,876 CRITICAL jpeg error with PIL, cannot concatenate 'str' and 'NoneType' objects
+2015-07-03 16:22:51,906 INFO Starting new HTTP connection (1): finance.yahoo.com
+2015-07-03 16:22:52,999 DEBUG "GET /news/rand-logistics-reports-fiscal-2015-232627108.html HTTP/1.1" 200 None
+2015-07-03 16:22:55,678 DEBUG No connection adapters were found for '/q/h?s=RLOG&t=2015-02-04T18:46:00-05:00' on /q/h?s=RLOG&t=2015-02-04T18:46:00-05:00
+2015-07-03 16:22:55,679 DEBUG crawl RLOG, end.............. 
+2015-07-03 16:22:55,679 INFO number of news url is 64
+2015-07-03 16:22:55,680 INFO crawl yahoo finance end......
